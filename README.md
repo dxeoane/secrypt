@@ -63,6 +63,6 @@ SeEasyAES.pas (NUEVO!)
     EasyGenKey
         Genera una clave de cifrado de 256 bits a partir de un texto
     EasyAESEnc
-        Cifra utilizando AES 256 CBC con un un IV aleatorio.
+        Cifra utilizando AES 256 CBC con un IV aleatorio.
     EasyAESDec
         Descifra datos cifrados con la funcion EasyAESEnc.
