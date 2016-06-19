@@ -1,1 +1,8 @@
 ignore/
+__history
+*.~*
+*.bak
+*.dcu
+*.log
+*.tmp
+*.exe
