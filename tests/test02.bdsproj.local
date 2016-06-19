@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/07/28 15:00:07.503.bdsproj,C:\Users\Seoane\Documents\Borland Studio Projects\Project7.bdsproj=E:\Archivos\Proyectos\AESStreams\test.bdsproj</Transaction>
+    <Transaction>2012/08/14 12:56:19.673.pas,E:\Archivos\Proyectos\AESStreams\AESStreams.pas=E:\Archivos\Proyectos\SeCrypt\AESStreams.pas</Transaction>
+    <Transaction>2012/08/14 12:56:32.730.bdsproj,E:\Archivos\Proyectos\AESStreams\test.bdsproj=E:\Archivos\Proyectos\SeCrypt\test.bdsproj</Transaction>
+    <Transaction>2012/08/14 12:56:57.893.pas,E:\Archivos\Proyectos\SeCrypt\AESStreams.pas=E:\Archivos\Proyectos\SeCrypt\SeStreams.pas</Transaction>
+    <Transaction>2012/08/14 12:57:29.727.pas,E:\Archivos\Proyectos\SeCrypt\Unit1.pas=E:\Archivos\Proyectos\SeCrypt\SeAES256.pas</Transaction>
+    <Transaction>2012/08/14 13:36:14.131.pas,E:\Archivos\Proyectos\SeCrypt\SeStreams.pas=</Transaction>
+    <Transaction>2012/08/14 13:36:14.142.pas,E:\Archivos\Proyectos\SeCrypt\SeSHA256.pas=</Transaction>
+    <Transaction>2012/08/14 13:36:14.153.pas,E:\Archivos\Proyectos\SeCrypt\SeBase64.pas=</Transaction>
+    <Transaction>2012/08/14 13:36:14.164.pas,E:\Archivos\Proyectos\SeCrypt\SeAES256.pas=</Transaction>
+    <Transaction>2012/08/15 20:20:09.388.bdsproj,E:\Archivos\Proyectos\SeCrypt\test.bdsproj=E:\Archivos\Proyectos\SeCrypt\tests\test01.bdsproj</Transaction>
+    <Transaction>2012/08/16 01:12:12.789.bdsproj,E:\Archivos\Proyectos\SeCrypt\tests\test01.bdsproj=E:\Archivos\Proyectos\SeCrypt\tests\test02.bdsproj</Transaction>
+    <Transaction>2012/08/16 01:12:26.993.pas,E:\Archivos\Proyectos\SeCrypt\SeCrypt\SeStreams.pas=</Transaction>
+    <Transaction>2012/08/16 01:12:29.242.pas,E:\Archivos\Proyectos\SeCrypt\SeCrypt\SeSHA256.pas=</Transaction>
+    <Transaction>2012/08/16 01:12:31.605.pas,E:\Archivos\Proyectos\SeCrypt\SeCrypt\SeBase64.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
